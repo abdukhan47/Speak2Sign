@@ -1,5 +1,5 @@
 # HackSC2022
-Inspiration
+# Inspiration
 When exploring around the templates from Lens Studio, we liked how the ASL machine model worked and wanted to incorporate that into our idea. We wanted to show how easy and fun learning ASL can be. We believe that it was a cool concept to teach ASL through a Snapchat lens or the Spectacles.
 
 # What it does
